@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="public/200h.gif" width="100%" />
+</p>
 
 # Hello, I'm Vladislav Storozhenko
 
